@@ -2,9 +2,8 @@
 # then Push the images to DockerHub 
 name: CI
 
-on: 
-    push:
-        branches: [master]
+on:
+  workflow_dispatch: 
 
 jobs:
     frontend:
