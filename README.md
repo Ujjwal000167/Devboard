@@ -1,3 +1,3 @@
-# DevBoard — Advanced (UI + Go + Postgres)
+# DevBoard — (UI + Go + Postgres)
 
 
